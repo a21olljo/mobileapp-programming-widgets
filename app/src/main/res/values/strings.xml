@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Widgets</string>
+    <string name="name">Whats your name?</string>
+    <string name="place_holder_name">Anders Andersson</string>
+    <string name="email_address">Please input a email address</string>
+    <string name="place_holder_email">username@mail.com</string>
+    <string name="button">Button</string>
 </resources>
