@@ -4,5 +4,5 @@
     <string name="place_holder_name">Anders Andersson</string>
     <string name="email_address">Please input a email address</string>
     <string name="place_holder_email">username@mail.com</string>
-    <string name="button">Button</string>
+    <string name="button">Create profile</string>
 </resources>
